@@ -1,0 +1,1 @@
+Please decompress the node_modules in the root folder as well as in the client folder.
